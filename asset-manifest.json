@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wiergild/static/css/main.0e0e263c.css",
-    "main.js": "/wiergild/static/js/main.b3aeada4.js",
+    "main.css": "/wiergild/static/css/main.28db2363.css",
+    "main.js": "/wiergild/static/js/main.ea2ff657.js",
     "static/media/Monaco.ttf": "/wiergild/static/media/Monaco.82564a37cce0a7b17740.ttf",
     "static/media/Monaco.woff2": "/wiergild/static/media/Monaco.371cf03d5b38ac86ef97.woff2",
     "index.html": "/wiergild/index.html",
-    "main.0e0e263c.css.map": "/wiergild/static/css/main.0e0e263c.css.map",
-    "main.b3aeada4.js.map": "/wiergild/static/js/main.b3aeada4.js.map"
+    "main.28db2363.css.map": "/wiergild/static/css/main.28db2363.css.map",
+    "main.ea2ff657.js.map": "/wiergild/static/js/main.ea2ff657.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e0e263c.css",
-    "static/js/main.b3aeada4.js"
+    "static/css/main.28db2363.css",
+    "static/js/main.ea2ff657.js"
   ]
 }
