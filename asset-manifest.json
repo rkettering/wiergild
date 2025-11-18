@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wiergild/static/css/main.7be1bdae.css",
-    "main.js": "/wiergild/static/js/main.aa4d9e69.js",
+    "main.css": "/wiergild/static/css/main.38c7b64c.css",
+    "main.js": "/wiergild/static/js/main.62dfa95d.js",
     "static/media/Breathe Fire II.otf": "/wiergild/static/media/Breathe Fire II.504840d318f330da702d.otf",
     "static/media/Breathe Fire II.woff2": "/wiergild/static/media/Breathe Fire II.f120cc92282bffaac60f.woff2",
     "static/media/Monaco.ttf": "/wiergild/static/media/Monaco.82564a37cce0a7b17740.ttf",
     "static/media/Monaco.woff2": "/wiergild/static/media/Monaco.371cf03d5b38ac86ef97.woff2",
     "index.html": "/wiergild/index.html",
-    "main.7be1bdae.css.map": "/wiergild/static/css/main.7be1bdae.css.map",
-    "main.aa4d9e69.js.map": "/wiergild/static/js/main.aa4d9e69.js.map"
+    "main.38c7b64c.css.map": "/wiergild/static/css/main.38c7b64c.css.map",
+    "main.62dfa95d.js.map": "/wiergild/static/js/main.62dfa95d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7be1bdae.css",
-    "static/js/main.aa4d9e69.js"
+    "static/css/main.38c7b64c.css",
+    "static/js/main.62dfa95d.js"
   ]
 }
