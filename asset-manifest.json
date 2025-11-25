@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.css": "/wiergild/static/css/main.38c7b64c.css",
-    "main.js": "/wiergild/static/js/main.d462955c.js",
+    "main.css": "/wiergild/static/css/main.69c7b2ff.css",
+    "main.js": "/wiergild/static/js/main.f9337a9b.js",
     "static/media/Breathe Fire II.otf": "/wiergild/static/media/Breathe Fire II.504840d318f330da702d.otf",
+    "static/media/Messe Duesseldorf.ttf": "/wiergild/static/media/Messe Duesseldorf.c19b76c6aa1951b906bb.ttf",
+    "static/media/Hannover Messe Serif.otf": "/wiergild/static/media/Hannover Messe Serif.4b9851bd255f66c62d44.otf",
+    "static/media/Eight Bit Dragon.otf": "/wiergild/static/media/Eight Bit Dragon.1523c2b5c44d297c4ac6.otf",
+    "static/media/Ancient Modern Tales.otf": "/wiergild/static/media/Ancient Modern Tales.4b8003f082e32ed5b07d.otf",
+    "static/media/Endless Boss Battle.ttf": "/wiergild/static/media/Endless Boss Battle.85d15021603459491047.ttf",
     "static/media/Breathe Fire II.woff2": "/wiergild/static/media/Breathe Fire II.f120cc92282bffaac60f.woff2",
+    "static/media/Super Legend Boy.otf": "/wiergild/static/media/Super Legend Boy.724743cc48ac2e9b0145.otf",
     "static/media/Monaco.ttf": "/wiergild/static/media/Monaco.82564a37cce0a7b17740.ttf",
+    "static/media/Hannover Messe Serif.woff2": "/wiergild/static/media/Hannover Messe Serif.1e1accb2b47834393c19.woff2",
+    "static/media/Eight Bit Dragon.woff2": "/wiergild/static/media/Eight Bit Dragon.b31662f662867c1319ea.woff2",
+    "static/media/Ancient Modern Tales.woff2": "/wiergild/static/media/Ancient Modern Tales.ec9d508f4329631aecca.woff2",
+    "static/media/Messe Duesseldorf.woff2": "/wiergild/static/media/Messe Duesseldorf.5ea6b092e9c16fccb497.woff2",
+    "static/media/Super Legend Boy.woff2": "/wiergild/static/media/Super Legend Boy.ddb424510c187b6c3c7a.woff2",
+    "static/media/Endless Boss Battle.woff2": "/wiergild/static/media/Endless Boss Battle.d8d33f2f80a970fa6b26.woff2",
     "static/media/Monaco.woff2": "/wiergild/static/media/Monaco.371cf03d5b38ac86ef97.woff2",
     "index.html": "/wiergild/index.html",
-    "main.38c7b64c.css.map": "/wiergild/static/css/main.38c7b64c.css.map",
-    "main.d462955c.js.map": "/wiergild/static/js/main.d462955c.js.map"
+    "main.69c7b2ff.css.map": "/wiergild/static/css/main.69c7b2ff.css.map",
+    "main.f9337a9b.js.map": "/wiergild/static/js/main.f9337a9b.js.map"
   },
   "entrypoints": [
-    "static/css/main.38c7b64c.css",
-    "static/js/main.d462955c.js"
+    "static/css/main.69c7b2ff.css",
+    "static/js/main.f9337a9b.js"
   ]
 }
