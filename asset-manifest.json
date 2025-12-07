@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wiergild/static/css/main.b31b67e1.css",
-    "main.js": "/wiergild/static/js/main.99dfd2d0.js",
+    "main.css": "/wiergild/static/css/main.9696e2b3.css",
+    "main.js": "/wiergild/static/js/main.c59d555f.js",
     "static/media/Breathe Fire II.otf": "/wiergild/static/media/Breathe Fire II.504840d318f330da702d.otf",
     "static/media/Messe Duesseldorf.ttf": "/wiergild/static/media/Messe Duesseldorf.c19b76c6aa1951b906bb.ttf",
     "static/media/Hannover Messe Serif.otf": "/wiergild/static/media/Hannover Messe Serif.4b9851bd255f66c62d44.otf",
@@ -19,11 +19,11 @@
     "static/media/Endless Boss Battle.woff2": "/wiergild/static/media/Endless Boss Battle.d8d33f2f80a970fa6b26.woff2",
     "static/media/Monaco.woff2": "/wiergild/static/media/Monaco.371cf03d5b38ac86ef97.woff2",
     "index.html": "/wiergild/index.html",
-    "main.b31b67e1.css.map": "/wiergild/static/css/main.b31b67e1.css.map",
-    "main.99dfd2d0.js.map": "/wiergild/static/js/main.99dfd2d0.js.map"
+    "main.9696e2b3.css.map": "/wiergild/static/css/main.9696e2b3.css.map",
+    "main.c59d555f.js.map": "/wiergild/static/js/main.c59d555f.js.map"
   },
   "entrypoints": [
-    "static/css/main.b31b67e1.css",
-    "static/js/main.99dfd2d0.js"
+    "static/css/main.9696e2b3.css",
+    "static/js/main.c59d555f.js"
   ]
 }
